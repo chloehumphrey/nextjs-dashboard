@@ -1,4 +1,4 @@
-// usePathname() is a hook, so nav-links.tsx must be a Client Component
+// usePathname() is a hook -> nav-links.tsx must be a Client Component
 'use client';
 
 import {
